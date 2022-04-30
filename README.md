@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ArthurHLG
 - 👀 I’m interested in SQL and DATA.
-- 🌱 I’m currently learning MySQL, Oracle, MSSQLServer, PostgreSQL and DB2SQL.
+- 🌱 I’m currently learning MySQL, Oracle, MSSQLServer, PostgreSQL, CockroachDB and DB2SQL.
