@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ArthurHLG
-- 👀 I’m interested in SQL and DATA.
+- 👀 I’m interested in SQL and Terraform.
 - 🌱 I’m currently learning MySQL, Oracle, MSSQLServer, PostgreSQL, CockroachDB and DB2SQL.
+- 🔥 Terraform, pipelines and AWS.
